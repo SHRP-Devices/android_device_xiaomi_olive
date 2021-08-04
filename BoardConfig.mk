@@ -156,6 +156,7 @@ TARGET_OTA_ASSERT_DEVICE := olive
 
 
 # SHRP Config
+SHRP_OFFICIAL := true
 SHRP_DEVICE_CODE := olive
 SHRP_PATH := device/xiaomi/$(SHRP_DEVICE_CODE)
 SHRP_MAINTAINER := deadlylxrd
